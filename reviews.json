@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "Professor": "Dr. Emily Carter",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Dr. Carter is very knowledgeable and her lectures are engaging. Sometimes the material can be challenging, but she’s always available to help."
+      },
+      {
+        "Professor": "Prof. James Nguyen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Amazing professor! He explains complex topics in a simple way. Definitely take his class if you can."
+      },
+      {
+        "Professor": "Dr. Sarah Lee",
+        "subject": "Mathematics",
+        "stars": 3,
+        "review": "Dr. Lee knows her material well, but her lectures can be a bit dry. It’s hard to stay focused sometimes."
+      },
+      {
+        "Professor": "Prof. Michael Johnson",
+        "subject": "Chemistry",
+        "stars": 2,
+        "review": "His lectures are very fast-paced, and he doesn’t take questions well. It’s hard to keep up."
+      },
+      {
+        "Professor": "Dr. Linda Rodriguez",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "Dr. Rodriguez is fantastic! Her enthusiasm makes the subject really interesting, and she’s very approachable."
+      },
+      {
+        "Professor": "Prof. William Brown",
+        "subject": "History",
+        "stars": 4,
+        "review": "Good professor with a deep understanding of the subject. His exams are tough, but fair."
+      },
+      {
+        "Professor": "Dr. Karen Wilson",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "Dr. Wilson is okay. Her lectures can be a bit monotonous, but the material is well-organized."
+      },
+      {
+        "Professor": "Prof. Daniel Harris",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Engaging discussions and thought-provoking lectures. Sometimes the readings are a bit too dense, though."
+      },
+      {
+        "Professor": "Dr. Laura Clark",
+        "subject": "Political Science",
+        "stars": 5,
+        "review": "One of the best professors I’ve had! She’s passionate about the subject and makes it easy to understand."
+      },
+      {
+        "Professor": "Prof. Steven Walker",
+        "subject": "Sociology",
+        "stars": 3,
+        "review": "Decent professor, but his lectures are a bit unstructured. You have to do a lot of self-study."
+      },
+      {
+        "Professor": "Dr. Nancy Martinez",
+        "subject": "Psychology",
+        "stars": 4,
+        "review": "Dr. Martinez is very knowledgeable and provides a lot of real-world examples. Her exams are challenging but fair."
+      },
+      {
+        "Professor": "Prof. Robert Davis",
+        "subject": "Engineering",
+        "stars": 2,
+        "review": "Prof. Davis is very strict and doesn’t provide much support outside of lectures. The workload is heavy."
+      },
+      {
+        "Professor": "Dr. John Moore",
+        "subject": "Literature",
+        "stars": 5,
+        "review": "Excellent professor! His passion for literature is contagious, and he encourages deep analysis."
+      },
+      {
+        "Professor": "Prof. Patricia King",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Prof. King is very knowledgeable and her lectures are well-organized. However, the material can be a bit dense."
+      },
+      {
+        "Professor": "Dr. Richard White",
+        "subject": "Music",
+        "stars": 3,
+        "review": "Dr. White knows his stuff, but his lectures can be a bit all over the place. You need to pay close attention."
+      },
+      {
+        "Professor": "Prof. Barbara Taylor",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Interesting lectures with a lot of real-world examples. Sometimes the reading assignments are a bit much, though."
+      },
+      {
+        "Professor": "Dr. Charles Thompson",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Dr. Thompson is an excellent professor. His lectures are engaging and he’s very passionate about the subject."
+      },
+      {
+        "Professor": "Prof. Elizabeth Allen",
+        "subject": "Business",
+        "stars": 3,
+        "review": "Prof. Allen is okay. Her lectures are straightforward but not very engaging. You’ll learn a lot if you put in the effort."
+      },
+      {
+        "Professor": "Dr. Thomas Scott",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Dr. Scott is a good professor who explains the material well. The labs are a bit difficult, though."
+      },
+      {
+        "Professor": "Prof. Jennifer Adams",
+        "subject": "Sociology",
+        "stars": 2,
+        "review": "Prof. Adams is not very approachable and her lectures are often confusing. Be prepared to study a lot on your own."
+      }
+    ]
+  }
+  
